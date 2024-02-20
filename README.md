@@ -1,4 +1,4 @@
-#Green Climate Fund (GCF) Project and Financial Analysis Feb 2024
+Green Climate Fund (GCF) Project and Financial Analysis Feb 2024
 
 Overview
 This repository contains an analysis of the Green Climate Fund (GCF) projects and financial allocations, offering an in-depth perspective on the fund's undertakings from 2015 to 2023.
