@@ -1,4 +1,4 @@
-**This repository contains an analysis of the Green Climate Fund (GCF) projects and financial allocations, offering an in-depth perspective on the fund's undertakings from 2015 to 2023.**
+**This repository contains an analysis of the Green Climate Fund projects and financial allocations, offering an in-depth perspective on the fund's undertakings from 2015 to 2023.**
 
 **Data Sources** <br>
 The analysis harnesses two principal excel workbook download from GCF Open Library:<br>
